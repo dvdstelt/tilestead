@@ -19,6 +19,7 @@ Your development cards now look like real cards, and the rules books of the expa
 - **See what you draw.** A card you buy or draw shows large in the middle of the island before it goes into your hand. The cards of the other settlers fly to them face down.
 - **Know the base game?** The rules books of Cities & Knights and Seafarers now start with a chapter about only what is different from the base game, enough to start playing.
 - **Tilestead's hex on the dice tower's flag.** The flag now shows the true colour of the settler whose turn it is, and it stays in view while the dice roll.
+- **Deciding for someone on a phone** now asks first, in a window that says what the game will do. A quick second tap in the top bar can no longer decide for a friend by accident.
 - After a roll the camera stays close to the dice tower, instead of jumping back out.
 
 <br clear="right">
