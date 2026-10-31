@@ -8,6 +8,21 @@ Everything that has come to the island, newest first. Each date is the day it re
 
 <br>
 
+## 31 October 2026 · Now in German and Spanish
+
+<img align="right" src="images/history/languages.jpg" alt="The language menu on a phone: English, Nederlands, Deutsch and Español, each with its flag" width="240">
+
+Tilestead now speaks four languages, and Settings has a new look.
+
+- **Deutsch and Español.** Every text in the game is translated into German and Spanish, the rules books and the emails too, with the words of the German and Spanish editions of the board game. Pick your language on the welcome screen, in Settings or with the flag on your phone. A browser set to German or Spanish starts in that language.
+- **A new Settings window.** Switches for your preferences, the room code and the invite link of this game, and Leave and End the game folded away under Game actions, so you cannot press them by accident. The pace of a game is now set in the lobby only.
+- **Log in, and your games open on any device.** Seat links are gone. The emails of a slow game now link to the game itself, and when you are logged in it opens your own seat, on your laptop as well as on your phone.
+- **The pause button stays.** You can now hold the dice at any moment from setup to the end, also right at the start of your own turn, when you want to play a card before rolling.
+- **No more tips over the island.** The corner of the island stays free. The turn panel and the rules book tell you what to do.
+- On a narrow screen, the name on a card in your hand is no longer hidden behind its trade rate.
+
+<br clear="right">
+
 ## 31 October 2026 · Cards up close
 
 <img align="right" src="images/history/development-cards.jpg" alt="The development cards window: Knight, Road building, Year of plenty and Victory point, each with its picture and what it does, and a Play button under the cards you can play now" width="340">
