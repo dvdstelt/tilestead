@@ -61,7 +61,7 @@ Tilestead began in October 2026 as a game for one family and is now open to ever
 - **Made for phones too.** On a phone Tilestead has a screen of its own: build, trade and lead your knights with one thumb.
 - **Computer settlers.** Fill an empty seat with an easy, normal or hard computer settler, or play a whole game against them. They trade, build ships and fight the barbarians like everyone else.
 - **Name your price.** Not sure what the others want for that brick? Ask the table for a price and take the best offer.
-- **A rules book whose pages turn.** Every game has its own illustrated book with the rules as you are playing them, and tips on screen that fit the moment.
+- **A rules book whose pages turn.** Every game has its own illustrated book with the rules as you are playing them, and tips on screen that fit the moment. Know the base game already? The books of Cities & Knights and Seafarers start with what is different.
 - **Your island, your rules.** The host picks the points to win, the seat order, a friendly robber and more, and can shape the island by hand or have a fair one generated.
 - **Never lose track.** The chronicle tells who rolled, built, traded and robbed. Come back after a while and Tilestead shows what changed on the island since your last turn.
 - **Your own face at the table.** Choose a portrait from the set or upload your own photo.
@@ -92,9 +92,9 @@ The classic island seats up to four settlers; a larger island seats up to six.
 
 Tilestead grows every week. The latest releases:
 
+- **31 October 2026:** Development cards up close, and rules books that start with what each expansion changes.
 - **30 October 2026:** Set sail with Seafarers, a new dice tower, and games that open straight onto their island.
 - **26 October 2026:** Livelier tiles: a windmill on the fields, a tunnel through the mountains and a clay mine in the hills.
-- **25 October 2026:** Name your price: ask the table what they want for a card, and take the best offer.
 
 Read the whole story in **[What's new in Tilestead](HISTORY.md)**.
 
