@@ -8,6 +8,21 @@ Everything that has come to the island, newest first. Each date is the day it re
 
 <br>
 
+## 31 October 2026 · Cards up close
+
+<img align="right" src="images/history/development-cards.jpg" alt="The development cards window: Knight, Road building, Year of plenty and Victory point, each with its picture and what it does, and a Play button under the cards you can play now" width="340">
+
+Your development cards now look like real cards, and the rules books of the expansions tell you what is different.
+
+- **Development cards up close.** Every development card has a front of its own, with a picture and what the card does. Hover over a card in your hand to see it full size.
+- **Play from a window.** Click any of your development cards to see them all. Each card has a Play button, or tells you why you cannot play it yet. In Cities & Knights, click your progress cards to open them in the same way.
+- **See what you draw.** A card you buy or draw shows large in the middle of the island before it goes into your hand. The cards of the other settlers fly to them face down.
+- **Know the base game?** The rules books of Cities & Knights and Seafarers now start with a chapter about only what is different from the base game, enough to start playing.
+- **Tilestead's hex on the dice tower's flag.** The flag now shows the true colour of the settler whose turn it is, and it stays in view while the dice roll.
+- After a roll the camera stays close to the dice tower, instead of jumping back out.
+
+<br clear="right">
+
 ## 30 October 2026 · Set sail with Seafarers
 
 <img align="right" src="images/history/seafarers.jpg" alt="A Seafarers island: the home island, smaller islands across the water, gold fields with a river and the pirate's ship" width="340">
