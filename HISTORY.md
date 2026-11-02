@@ -8,6 +8,41 @@ Everything that has come to the island, newest first. Each date is the day it re
 
 <br>
 
+## 2 November 2026 · A simple island
+
+<img align="right" src="images/history/simple-island.jpg" alt="The island seen from above with flat tiles: green meadows, dark green forests, golden fields, red clay and grey mountains, each with a large number in the middle, roads in full colour and the robber on a grey desert" width="340">
+
+The island is full of life, but that can be a lot to take in. Simple island makes it calm and easy to read.
+
+- **One switch.** Turn on Simple island in Settings, behind the gear at the top right or in the menu on your phone. It only changes the island on your own device.
+- **Flat tiles.** Every tile becomes a flat picture seen from above, like the tiles of a board game, with a large number in the middle. No animals or moving things on the tiles; the boats and the fish still sail the sea. You can still turn the island, and the centre button brings you back to the view from above.
+- **Roads in full colour.** A road is one solid line in its settler's colour, without grey stones in the middle.
+- **A robber you can find.** He stands a size larger, and his tile turns fully grey.
+- **Clear spots to build.** When you place a piece, the spots are larger and the rest of the island darkens while you choose.
+- **Pick what helps you.** Under Choose what changes you turn each part on or off on its own. There you can also show settlements and cities fully in their settler's colour, like wooden game pieces.
+- **For everyone: the robber's tile turns grey.** Also on the detailed island, his tile now turns towards grey, so you see at a glance where he stands and which tile gives nothing.
+
+Also in this release:
+
+- **The whole rules book on your phone.** Rules in the menu now opens every chapter of your game's book, as easy pages to scroll, with the book's pictures. In a game it starts with the chapter for what is happening right now, such as the seven or setting up, and keeps the building costs one look away. A computer window too small for the book opens the same pages.
+
+<br clear="right">
+
+## 31 October 2026 · Now in German and Spanish
+
+<img align="right" src="images/history/languages.jpg" alt="The language menu on a phone: English, Nederlands, Deutsch and Español, each with its flag" width="240">
+
+Tilestead now speaks four languages, and Settings has a new look.
+
+- **Deutsch and Español.** Every text in the game is translated into German and Spanish, the rules books and the emails too, with the words of the German and Spanish editions of the board game. Pick your language on the welcome screen, in Settings or with the flag on your phone. A browser set to German or Spanish starts in that language.
+- **A new Settings window.** Switches for your preferences, the room code and the invite link of this game, and Leave and End the game folded away under Game actions, so you cannot press them by accident. The pace of a game is now set in the lobby only.
+- **Log in, and your games open on any device.** Seat links are gone. The emails of a slow game now link to the game itself, and when you are logged in it opens your own seat, on your laptop as well as on your phone.
+- **The pause button stays.** You can now hold the dice at any moment from setup to the end, also right at the start of your own turn, when you want to play a card before rolling.
+- **No more tips over the island.** The corner of the island stays free. The turn panel and the rules book tell you what to do.
+- On a narrow screen, the name on a card in your hand is no longer hidden behind its trade rate.
+
+<br clear="right">
+
 ## 31 October 2026 · Cards up close
 
 <img align="right" src="images/history/development-cards.jpg" alt="The development cards window: Knight, Road building, Year of plenty and Victory point, each with its picture and what it does, and a Play button under the cards you can play now" width="340">
@@ -19,6 +54,7 @@ Your development cards now look like real cards, and the rules books of the expa
 - **See what you draw.** A card you buy or draw shows large in the middle of the island before it goes into your hand. The cards of the other settlers fly to them face down.
 - **Know the base game?** The rules books of Cities & Knights and Seafarers now start with a chapter about only what is different from the base game, enough to start playing.
 - **Tilestead's hex on the dice tower's flag.** The flag now shows the true colour of the settler whose turn it is, and it stays in view while the dice roll.
+- **Deciding for someone on a phone** now asks first, in a window that says what the game will do. A quick second tap in the top bar can no longer decide for a friend by accident.
 - After a roll the camera stays close to the dice tower, instead of jumping back out.
 
 <br clear="right">
