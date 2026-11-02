@@ -22,6 +22,10 @@ The island is full of life, but that can be a lot to take in. Simple island make
 - **Pick what helps you.** Under Choose what changes you turn each part on or off on its own. There you can also show settlements and cities fully in their settler's colour, like wooden game pieces.
 - **For everyone: the robber's tile turns grey.** Also on the detailed island, his tile now turns towards grey, so you see at a glance where he stands and which tile gives nothing.
 
+Also in this release:
+
+- **The whole rules book on your phone.** Rules in the menu now opens every chapter of your game's book, as easy pages to scroll, with the book's pictures. In a game it starts with the chapter for what is happening right now, such as the seven or setting up, and keeps the building costs one look away. A computer window too small for the book opens the same pages.
+
 <br clear="right">
 
 ## 31 October 2026 · Now in German and Spanish
