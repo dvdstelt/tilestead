@@ -8,6 +8,22 @@ Everything that has come to the island, newest first. Each date is the day it re
 
 <br>
 
+## 2 November 2026 · A simple island
+
+<img align="right" src="images/history/simple-island.jpg" alt="The island seen from above with flat tiles: green meadows, dark green forests, golden fields, red clay and grey mountains, each with a large number in the middle, roads in full colour and the robber on a grey desert" width="340">
+
+The island is full of life, but that can be a lot to take in. Simple island makes it calm and easy to read.
+
+- **One switch.** Turn on Simple island in Settings, behind the gear at the top right or in the menu on your phone. It only changes the island on your own device.
+- **Flat tiles.** Every tile becomes a flat picture seen from above, like the tiles of a board game, with a large number in the middle. No animals or moving things on the tiles; the boats and the fish still sail the sea. You can still turn the island, and the centre button brings you back to the view from above.
+- **Roads in full colour.** A road is one solid line in its settler's colour, without grey stones in the middle.
+- **A robber you can find.** He stands a size larger, and his tile turns fully grey.
+- **Clear spots to build.** When you place a piece, the spots are larger and the rest of the island darkens while you choose.
+- **Pick what helps you.** Under Choose what changes you turn each part on or off on its own. There you can also show settlements and cities fully in their settler's colour, like wooden game pieces.
+- **For everyone: the robber's tile turns grey.** Also on the detailed island, his tile now turns towards grey, so you see at a glance where he stands and which tile gives nothing.
+
+<br clear="right">
+
 ## 31 October 2026 · Now in German and Spanish
 
 <img align="right" src="images/history/languages.jpg" alt="The language menu on a phone: English, Nederlands, Deutsch and Español, each with its flag" width="240">

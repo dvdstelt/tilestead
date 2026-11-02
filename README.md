@@ -65,6 +65,7 @@ Tilestead began in October 2026 as a game for one family and is now open to ever
 - **Your island, your rules.** The host picks the points to win, the seat order, a friendly robber and more, and can shape the island by hand or have a fair one generated.
 - **Never lose track.** The chronicle tells who rolled, built, traded and robbed. Come back after a while and Tilestead shows what changed on the island since your last turn.
 - **Your own face at the table.** Choose a portrait from the set or upload your own photo.
+- **A calm island when you need one.** Find the island busy? Simple island in Settings shows flat tiles seen from above, roads in full colour, a robber you can find at a glance and clear spots to build, on your own device only.
 - **English, Dutch, German and Spanish.** Everyone picks their own language on their own device.
 
 <br clear="right">
@@ -92,9 +93,9 @@ The classic island seats up to four settlers; a larger island seats up to six.
 
 Tilestead grows every week. The latest releases:
 
+- **2 November 2026:** A simple island: flat tiles, roads in full colour and a robber you can find, with one switch in Settings.
 - **31 October 2026:** Tilestead speaks German and Spanish, and Settings has a new look.
 - **31 October 2026:** Development cards up close, and rules books that start with what each expansion changes.
-- **30 October 2026:** Set sail with Seafarers, a new dice tower, and games that open straight onto their island.
 
 Read the whole story in **[What's new in Tilestead](HISTORY.md)**.
 
